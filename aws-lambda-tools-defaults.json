@@ -1,0 +1,9 @@
+{
+  "profile": "default",
+  "region": "ap-southeast-1",
+  "configuration": "Release",
+  "framework": "netcoreapp3.1",
+  "s3-prefix": "LambdaWebApp/",
+  "template": "serverless.yaml",
+  "template-parameters": ""
+}
